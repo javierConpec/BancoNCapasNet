@@ -1,0 +1,10 @@
+C:\Users\javie\source\repos\Banco\Banco.AppWin\bin\Debug\Banco.AppWin.exe.config
+C:\Users\javie\source\repos\Banco\Banco.AppWin\bin\Debug\Banco.AppWin.exe
+C:\Users\javie\source\repos\Banco\Banco.AppWin\bin\Debug\Banco.AppWin.pdb
+C:\Users\javie\source\repos\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.AssemblyReference.cache
+C:\Users\javie\source\repos\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.SuggestedBindingRedirects.cache
+C:\Users\javie\source\repos\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.Properties.Resources.resources
+C:\Users\javie\source\repos\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.GenerateResource.cache
+C:\Users\javie\source\repos\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.CoreCompileInputs.cache
+C:\Users\javie\source\repos\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.exe
+C:\Users\javie\source\repos\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.pdb
