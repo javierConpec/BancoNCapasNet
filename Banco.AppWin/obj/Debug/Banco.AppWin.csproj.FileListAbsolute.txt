@@ -8,3 +8,21 @@ C:\Users\javie\source\repos\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.Gen
 C:\Users\javie\source\repos\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.CoreCompileInputs.cache
 C:\Users\javie\source\repos\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.exe
 C:\Users\javie\source\repos\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.pdb
+D:\tareas del instituto\tercer ciclo\programacion\Banco\Banco.AppWin\bin\Debug\Banco.AppWin.exe.config
+D:\tareas del instituto\tercer ciclo\programacion\Banco\Banco.AppWin\bin\Debug\Banco.AppWin.exe
+D:\tareas del instituto\tercer ciclo\programacion\Banco\Banco.AppWin\bin\Debug\Banco.AppWin.pdb
+D:\tareas del instituto\tercer ciclo\programacion\Banco\Banco.AppWin\bin\Debug\Banco.Entidades.dll
+D:\tareas del instituto\tercer ciclo\programacion\Banco\Banco.AppWin\bin\Debug\Banco.Negocio.dll
+D:\tareas del instituto\tercer ciclo\programacion\Banco\Banco.AppWin\bin\Debug\Banco.Data.dll
+D:\tareas del instituto\tercer ciclo\programacion\Banco\Banco.AppWin\bin\Debug\Banco.Entidades.pdb
+D:\tareas del instituto\tercer ciclo\programacion\Banco\Banco.AppWin\bin\Debug\Banco.Negocio.pdb
+D:\tareas del instituto\tercer ciclo\programacion\Banco\Banco.AppWin\bin\Debug\Banco.Data.pdb
+D:\tareas del instituto\tercer ciclo\programacion\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.AssemblyReference.cache
+D:\tareas del instituto\tercer ciclo\programacion\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.SuggestedBindingRedirects.cache
+D:\tareas del instituto\tercer ciclo\programacion\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.frmCliente.resources
+D:\tareas del instituto\tercer ciclo\programacion\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.Properties.Resources.resources
+D:\tareas del instituto\tercer ciclo\programacion\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.GenerateResource.cache
+D:\tareas del instituto\tercer ciclo\programacion\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.CoreCompileInputs.cache
+D:\tareas del instituto\tercer ciclo\programacion\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.CopyComplete
+D:\tareas del instituto\tercer ciclo\programacion\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.exe
+D:\tareas del instituto\tercer ciclo\programacion\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.pdb

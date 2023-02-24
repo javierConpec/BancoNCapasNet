@@ -16,7 +16,7 @@ namespace Banco.Entidades
         public int IDTipoCliente { get; set; }
         public int IDTipodocumento { get; set; }
         public string Direccion { get; set; }
-        public string Referencias { get; set; }
+        public string Referencia { get; set; }
         public string Telefono { get; set; }
         public string Email { get; set; }
     }
